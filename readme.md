@@ -4,27 +4,31 @@
 
 Quadratic equations can be used to convert a perimeter into area.  The example is a farmer wants to make a fence.  He has purchased 80 feet of fencing.  He wants to fence in 3 sides and the 4th side is his barn.  
 
+## Upside down parabola
+Since the max is what needs to be found, a upside down parabola is the solution to the problem.
+
 ## Frist equation needed is the perimeter of a rectangle.
-### P=L+W+L+W
+
+![\Large P=L+W+L+W](https://latex.codecogs.com/svg.latex?\Large&space;P=L+W+L+W)
 
 Since we only need three sides to fence in the field the equation is 
 
-### P=L+W+L  
+![\Large P=L+W+L](https://latex.codecogs.com/svg.latex?\Large&space;P=L+W+L)
 
-### P=2L+W
+![\Large P=2L+W](https://latex.codecogs.com/svg.latex?\Large&space;P=2L+W)
 
 Since we are working with quadratics, the variables, L and W have to be simplified to just L or W.  We have to put 80 in for P, Equation to do this is
 
-### 80=2L+W
+![\Large 80=2L+W](https://latex.codecogs.com/svg.latex?\Large&space;80=2L+W)
 
-### 80-2L=W
+![\Large 80-2L=W](https://latex.codecogs.com/svg.latex?\Large&space;80-2L=W)
 
 Finding the maximum area can now be done using our variables for length and width expressed in terms of legnth.  
 
-### Area = L(-2L+80)
+![\Large Area = L(-2L+80)](https://latex.codecogs.com/svg.latex?\Large&space;Area=L(-2L+80L))
 
 
-![\Large Area = -2L^2+80](https://latex.codecogs.com/svg.latex?\Large&space;Area=-2L^2+80)
+![\Large Area = -2L^2+80](https://latex.codecogs.com/svg.latex?\Large&space;Area=-2L^2+80L)
 
 ![\Large Area=-\frac{b}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;Area=-\frac{b}{2a})
 
